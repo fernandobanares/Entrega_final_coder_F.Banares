@@ -9,12 +9,15 @@ Este análisis beneficiará a una amplia audiencia, incluyendo profesionales de 
 
 En resumen, el análisis de este conjunto de datos sobre predicción de diabetes tiene como objetivo proporcionar conocimientos clave sobre los factores de riesgo y las características asociadas a esta enfermedad, con el fin de mejorar la prevención, el diagnóstico y el tratamiento, y así beneficiar a profesionales de la salud, investigadores y responsables de la formulación de políticas en el campo de la diabetes y la salud pública en general.
 
-gender: Género
-age: Edad
-heart_disease:	Ha padecido de un infarto
-smoking_history:  	Historial de fumador
-bmi:	Índice de Masa Corporal (BMI)
-HbA1c_level:	Nivel de Hemoglobina en la Sangre
-blood_glucose_level:	Nivel de Glucosa en la Sangre
-diabetes:	Tiene Diabetes
+| Variable             | Descripción                            |
+|----------------------|----------------------------------------|
+| gender               | Género                                 |
+| age                  | Edad                                   |
+| heart_disease        | Ha padecido de un infarto              |
+| smoking_history      | Historial de fumador                   |
+| bmi                  | Índice de Masa Corporal (BMI)         |
+| HbA1c_level          | Nivel de Hemoglobina en la Sangre      |
+| blood_glucose_level  | Nivel de Glucosa en la Sangre          |
+| diabetes             | Tiene Diabetes                         |
+
 
