@@ -9,19 +9,19 @@ Predicciones Precisas: Buscamos desarrollar un modelo de machine learning altame
 
 Aplicación Práctica en el Campo de la Salud Pública: Queremos ofrecer información valiosa para mejorar la prevención, el diagnóstico temprano y el tratamiento personalizado de la diabetes, lo que podría tener un impacto significativo en la salud pública.
 
-# Audiencia Objetivo
+## **Audiencia Objetivo**
 Profesionales de la Salud: Los resultados y hallazgos del modelo pueden utilizarse para mejorar el asesoramiento y la educación de los pacientes, así como para identificar grupos de alto riesgo que requieren intervenciones específicas.
 
 Investigadores: Los hallazgos del proyecto pueden servir como base para futuras investigaciones en el campo de la diabetes, además de contribuir al desarrollo de modelos de predicción más precisos y efectivos.
 
 Responsables de Políticas de Salud y Expertos en Salud Pública: Los datos y análisis obtenidos pueden ayudar en la formulación de políticas de salud pública dirigidas a la prevención y el manejo efectivo de la diabetes a nivel de la población.
 
-# Contribuciones del Proyecto
+## **Contribuciones del Proyecto**
 Mejora de la Detección Temprana: Al identificar factores de riesgo específicos, el modelo puede contribuir a la detección temprana de la diabetes y a la adopción de medidas preventivas efectivas.
 
 Personalización de la Atención Médica: Los resultados pueden permitir una atención médica más personalizada para los pacientes con diabetes, lo que podría mejorar significativamente su calidad de vida.
 
-# Cómo Contribuir
+## **Cómo Contribuir**
 Si estás interesado en contribuir a este proyecto, te animamos a explorar el código, los conjuntos de datos y las técnicas de machine learning utilizadas. Tu participación y aportes pueden ayudar a mejorar la precisión del modelo y su aplicación en la práctica clínica.
 
 ¡Gracias por tu interés en este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.
