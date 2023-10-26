@@ -1,8 +1,8 @@
 # Entrega_final_coder_F.Banares
-Modelo de Machine Learning para la Predicción de Casos de Diabetes
+## Modelo de Machine Learning para la Predicción de Casos de Diabetes
 Este proyecto tiene como objetivo desarrollar un modelo de machine learning que pueda predecir con precisión los casos de diabetes basándose en un análisis exhaustivo de múltiples factores de riesgo. Utilizamos un conjunto de datos completo que proporciona información detallada sobre atributos relevantes, como la edad, el índice de masa corporal (IMC), el género y los niveles de glucosa en la sangre, entre otros indicadores clave.
 
-Objetivos del Proyecto
+# Objetivos del Proyecto
 Análisis Profundo: Nuestro objetivo es llevar a cabo un análisis exhaustivo de los factores de riesgo asociados con la diabetes para identificar patrones y relaciones significativas en los datos.
 
 Predicciones Precisas: Buscamos desarrollar un modelo de machine learning altamente preciso que pueda predecir casos de diabetes con un alto grado de certeza basado en los atributos proporcionados en el conjunto de datos.
